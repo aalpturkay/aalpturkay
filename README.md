@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 #### Alp in a nutshell
 I like drumming, coding, coffee and open source
 
-I’m currently working on Java and Spring Boot
-
 #### Tech Stack ⚡
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-spring-E34A86?style=flat-square&logo=spring)
