@@ -21,6 +21,6 @@ drumming, coding, coffee and open source
 #### Tech Stack ⚡
 ![Ruby](https://img.shields.io/badge/-Ruby-E34A86?style=flat-square&logo=ruby)
 ![Spring](https://img.shields.io/badge/-Spring-E34A86?style=flat-square&logo=spring)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
