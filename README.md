@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Alp in a nutshell
-drumming, coding, coffee and open source
+drumming, coding, coffee, aerospace and open source
 
 #### Tech Stack ⚡
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
